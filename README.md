@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center"> I'm Iptisam ⭐</h1>
+### Hi, I'm Iptisam⭐
 
 <p align="center">
   💻 Tech Enthusiast | 🌙 Dreamer | 🌱 Learner
@@ -18,7 +16,7 @@
 
 ## 🚀 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,node.js,express,react,mongodb,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,node,express,react,mongodb,vscode" />
 </p>
 
 ---
