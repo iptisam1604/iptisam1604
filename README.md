@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**iptisam1604/iptisam1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🌸 I'm Iptisam 🌸</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Tech Enthusiast | 🌙 Dreamer | 🌱 Learner
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌷 About Me
+ CS Graduate
+ Learning Web Dev and DSA  
+ Trying to become better every day  
+
+---
+
+###  Tech Stack
+✨ C | Java | JavaScript  
+✨ HTML | CSS | React  
+✨ Node.js | MongoDB | Express.js
+
+---
+
+### 🌼 Currently Working On
+🌱 Improving coding skills  
+🌱 Building projects  
+
+---
+
+_"Small steps everyday lead to big success"_ 💫
