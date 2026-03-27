@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center"> I'm Iptisam :star: ⭐</h1>
+<h1 align="center"> I'm Iptisam ⭐</h1>
 
 <p align="center">
   💻 Tech Enthusiast | 🌙 Dreamer | 🌱 Learner
@@ -9,9 +9,9 @@
 ---
 
 ### About Me
- CS Graduate
- Learning Web Dev and DSA  
- Trying to become better every day  
+🎓 CS Graduate  
+💻 Web Dev & DSA Learner  
+✨ Improving every day  
 
 ---
 
