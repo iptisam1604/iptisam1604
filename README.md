@@ -1,8 +1,7 @@
 ### Hi, I'm Iptisam⭐
 
-<p align="center">
+
   💻 Tech Enthusiast | 🌙 Dreamer | 🌱 Learner
-</p>
 
 ---
 
