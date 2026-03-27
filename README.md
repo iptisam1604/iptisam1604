@@ -15,10 +15,11 @@
 
 ---
 
-###  Tech Stack
-✨ C | Java | JavaScript  
-✨ HTML | CSS | React  
-✨ Node.js | MongoDB | Express.js
+
+## 🚀 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,node.js,express.js,react.js,mongodb,vscode" />
+</p>
 
 ---
 
